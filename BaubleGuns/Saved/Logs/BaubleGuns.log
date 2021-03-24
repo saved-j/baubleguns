@@ -874,3 +874,435 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.24-12.10.37:753][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.03.24-12.10.37:767][469]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.03.24-12.10.37:767][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.12.00:845][790]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.13.37:856][752]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.13.37:918][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.03.24-12.13.38:742][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.13.38:759][835]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenu0DD4EB65417972D2F046BF9D502043F2.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.13.38:777][835]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.13.38:777][835]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.13.49:027][ 18]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.13.49:060][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.03.24-12.13.49:725][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.13.49:740][ 81]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenu7E77C3F34321E991F61C36B58510D0F8.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.13.49:758][ 81]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.13.49:758][ 81]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.14.17:116][243]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.14.17:152][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.03.24-12.14.17:508][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.14.17:524][269]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenuE680A1EB44E268ECC36A838590AFF15E.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.14.17:543][269]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.14.17:543][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.14.45:088][392]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.14.45:124][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.03.24-12.14.45:391][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.14.45:407][409]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenuBB6F848E40E8E3490C349CAF7301984D.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.14.45:425][409]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.14.45:425][409]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.14.53:412][321]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.14.53:447][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.03.24-12.14.53:808][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.14.53:824][350]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenuBB2E76B54EE8F135DAEC03B4C2088918.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.14.53:841][350]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.14.53:841][350]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.14.54:940][470]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.24-12.14.54:943][470]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.24-12.14.54:946][470]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.14.54:946][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.14.54:959][470]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.14.54:959][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.00:497][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-12.15.00:498][107]PIE: New page: PIE session: MainMenu (24 мар. 2021 г., 18:15:00)
+[2021.03.24-12.15.00:498][107]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.00:499][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000832s)
+[2021.03.24-12.15.00:499][107]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.24-12.15.00:500][107]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2021.03.24-12.15.00:500][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001855s)
+[2021.03.24-12.15.00:523][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.03.24-12.15.00:524][107]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-12.15.00:524][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-12.15.00:524][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-12.15.00:525][107]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-12.15.00:525][107]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-12.15.00:527][107]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-12.15.00:527][107]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-12.15.00:546][107]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.24-12.15.00:546][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-12.15.00:546][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-12.15.00:547][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-12.15.00:547][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-12.15.00:547][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-12.15.00:547][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-12.15.00:562][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-12.15.00:562][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-12.15.00:562][107]LogInit: FAudioDevice initialized.
+[2021.03.24-12.15.00:562][107]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.03.24-12.15.00:569][107]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.15.00:570][107]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.24-15.15.00
+[2021.03.24-12.15.00:570][107]LogWorld: Bringing up level for play took: 0.000558
+[2021.03.24-12.15.00:571][107]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.03.24-12.15.00:574][107]PIE: Server logged in
+[2021.03.24-12.15.00:574][107]PIE: Play in editor total start time 0,077 seconds.
+[2021.03.24-12.15.05:398][685]LogNet: Browse: /Game/Scenes/Customize
+[2021.03.24-12.15.05:398][685]LogLoad: LoadMap: /Game/Scenes/Customize
+[2021.03.24-12.15.05:398][685]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.05:398][685]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.05:398][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.05:449][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.15.05:451][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.24-12.15.05:457][685]LogAudio: Display: Audio Device (ID: 3) registered with world 'Customize'.
+[2021.03.24-12.15.05:458][685]LogAIModule: Creating AISystem for world Customize
+[2021.03.24-12.15.05:458][685]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.15.05:459][685]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Customize.Customize up for play (max tick rate 0) at 2021.03.24-15.15.05
+[2021.03.24-12.15.05:459][685]LogWorld: Bringing up level for play took: 0.000475
+[2021.03.24-12.15.05:459][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.24-12.15.05:460][685]LogLoad: Took 0.062038 seconds to LoadMap(/Game/Scenes/Customize)
+[2021.03.24-12.15.08:443][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.08:443][ 30]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Customize
+[2021.03.24-12.15.08:443][ 30]LogWorld: UWorld::CleanupWorld for Customize, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.08:443][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.08:448][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-12.15.08:451][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.08:466][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.15.08:466][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.08:467][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.08:485][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.08:489][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.24-12.15.08:506][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.03.24-12.15.09:188][108]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.24-12.15.09:200][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-12.15.09:200][108]PIE: New page: PIE session: MainMenu (24 мар. 2021 г., 18:15:09)
+[2021.03.24-12.15.09:200][108]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.09:201][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000802s)
+[2021.03.24-12.15.09:202][108]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.24-12.15.09:202][108]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2021.03.24-12.15.09:202][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.002104s)
+[2021.03.24-12.15.09:220][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.24-12.15.09:220][108]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-12.15.09:220][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-12.15.09:220][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-12.15.09:221][108]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-12.15.09:221][108]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-12.15.09:223][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-12.15.09:223][108]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-12.15.09:272][108]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.24-12.15.09:272][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-12.15.09:272][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-12.15.09:272][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-12.15.09:272][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-12.15.09:273][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-12.15.09:273][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-12.15.09:289][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-12.15.09:289][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-12.15.09:289][108]LogInit: FAudioDevice initialized.
+[2021.03.24-12.15.09:289][108]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2021.03.24-12.15.09:300][108]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.15.09:301][108]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.24-15.15.09
+[2021.03.24-12.15.09:301][108]LogWorld: Bringing up level for play took: 0.000259
+[2021.03.24-12.15.09:301][108]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.24-12.15.09:304][108]PIE: Server logged in
+[2021.03.24-12.15.09:304][108]PIE: Play in editor total start time 0,105 seconds.
+[2021.03.24-12.15.15:192][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.15:192][809]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.15:192][809]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.15:192][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.15:200][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-12.15.15:204][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.15:220][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.15:220][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.15:221][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.15:241][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.24-12.15.15:268][811]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.24-12.15.18:008][136]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.15.43:255][  4]BlueprintLog: New page: Compile MainMenu
+[2021.03.24-12.15.43:280][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.24-12.15.43:840][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset" SILENT=true
+[2021.03.24-12.15.43:858][ 63]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenu162061174BA60D4180DC2DA50DFA5B84.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/MainMenu.uasset'
+[2021.03.24-12.15.43:876][ 63]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.15.43:876][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blprintes/MainMenu.MainMenu
+[2021.03.24-12.15.45:523][252]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.24-12.15.45:525][252]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.24-12.15.45:527][252]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.45:527][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.45:541][252]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.45:541][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.46:886][408]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.24-12.15.46:898][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-12.15.46:899][408]PIE: New page: PIE session: MainMenu (24 мар. 2021 г., 18:15:46)
+[2021.03.24-12.15.46:899][408]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.46:899][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000746s)
+[2021.03.24-12.15.46:900][408]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.24-12.15.46:900][408]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.03.24-12.15.46:900][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001790s)
+[2021.03.24-12.15.46:923][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.03.24-12.15.46:924][408]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-12.15.46:924][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-12.15.46:924][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-12.15.46:925][408]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-12.15.46:925][408]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-12.15.46:927][408]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-12.15.46:927][408]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-12.15.46:945][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-12.15.46:945][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-12.15.46:960][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-12.15.46:960][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-12.15.46:960][408]LogInit: FAudioDevice initialized.
+[2021.03.24-12.15.46:960][408]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.03.24-12.15.46:966][408]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.15.46:967][408]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.24-15.15.46
+[2021.03.24-12.15.46:967][408]LogWorld: Bringing up level for play took: 0.000250
+[2021.03.24-12.15.46:967][408]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.24-12.15.46:970][408]PIE: Server logged in
+[2021.03.24-12.15.46:970][408]PIE: Play in editor total start time 0,072 seconds.
+[2021.03.24-12.15.48:128][547]LogNet: Browse: /Game/Scenes/Office
+[2021.03.24-12.15.48:128][547]LogLoad: LoadMap: /Game/Scenes/Office
+[2021.03.24-12.15.48:128][547]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.15.48:128][547]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.48:129][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.48:167][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.15.48:170][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.03.24-12.15.50:167][547]LogAudio: Display: Audio Device (ID: 5) registered with world 'Office'.
+[2021.03.24-12.15.50:168][547]LogAIModule: Creating AISystem for world Office
+[2021.03.24-12.15.50:168][547]LogLoad: Game class is 'GameMode'
+[2021.03.24-12.15.50:171][547]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Office.Office up for play (max tick rate 0) at 2021.03.24-15.15.50
+[2021.03.24-12.15.50:171][547]LogWorld: Bringing up level for play took: 0.002152
+[2021.03.24-12.15.50:172][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.24-12.15.50:172][547]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.24-12.15.50:182][547]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.24-12.15.50:182][547]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.24-12.15.50:192][547]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.24-12.15.50:192][547]LogLoad: Took 2.063730 seconds to LoadMap(/Game/Scenes/Office)
+[2021.03.24-12.15.52:343][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.52:343][786]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Office
+[2021.03.24-12.15.52:343][786]LogWorld: UWorld::CleanupWorld for Office, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.15.52:343][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.52:348][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-12.15.52:352][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.15.52:370][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.15.52:370][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.52:371][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.15.52:388][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.15.52:391][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.03.24-12.15.52:413][787]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.24-12.15.55:444][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-12.15.55:463][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.03.24-12.15.55:475][130]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenuC075226646BA11040D5B51B5CF3DEB65.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Scenes/MainMenu.umap'
+[2021.03.24-12.15.55:517][130]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.15.55:517][130]LogContentValidation: Display: Validating World /Game/Scenes/MainMenu.MainMenu
+[2021.03.24-12.16.16:070][417]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.24-12.16.16:083][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-12.16.16:083][417]PIE: New page: PIE session: MainMenu (24 мар. 2021 г., 18:16:16)
+[2021.03.24-12.16.16:083][417]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.16.16:084][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000866s)
+[2021.03.24-12.16.16:085][417]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.24-12.16.16:085][417]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2021.03.24-12.16.16:085][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.002020s)
+[2021.03.24-12.16.16:107][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.03.24-12.16.16:109][417]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-12.16.16:109][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-12.16.16:109][417]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-12.16.16:109][417]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-12.16.16:111][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-12.16.16:111][417]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-12.16.16:128][417]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.24-12.16.16:129][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-12.16.16:129][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-12.16.16:129][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-12.16.16:129][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-12.16.16:129][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-12.16.16:129][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-12.16.16:142][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-12.16.16:142][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-12.16.16:142][417]LogInit: FAudioDevice initialized.
+[2021.03.24-12.16.16:143][417]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2021.03.24-12.16.16:148][417]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.16.16:149][417]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.24-15.16.16
+[2021.03.24-12.16.16:149][417]LogWorld: Bringing up level for play took: 0.000255
+[2021.03.24-12.16.16:149][417]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.24-12.16.16:152][417]PIE: Server logged in
+[2021.03.24-12.16.16:153][417]PIE: Play in editor total start time 0,071 seconds.
+[2021.03.24-12.16.23:702][323]LogNet: Browse: /Game/Scenes/Customize
+[2021.03.24-12.16.23:702][323]LogLoad: LoadMap: /Game/Scenes/Customize
+[2021.03.24-12.16.23:702][323]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.16.23:703][323]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.16.23:703][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.23:757][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.16.23:759][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.24-12.16.23:764][323]LogAudio: Display: Audio Device (ID: 6) registered with world 'Customize'.
+[2021.03.24-12.16.23:765][323]LogAIModule: Creating AISystem for world Customize
+[2021.03.24-12.16.23:765][323]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.16.23:766][323]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Customize.Customize up for play (max tick rate 0) at 2021.03.24-15.16.23
+[2021.03.24-12.16.23:766][323]LogWorld: Bringing up level for play took: 0.000462
+[2021.03.24-12.16.23:766][323]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.24-12.16.23:768][323]LogLoad: Took 0.065250 seconds to LoadMap(/Game/Scenes/Customize)
+[2021.03.24-12.16.30:742][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.16.30:742][149]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Customize
+[2021.03.24-12.16.30:742][149]LogWorld: UWorld::CleanupWorld for Customize, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.16.30:742][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.30:749][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-12.16.30:752][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.30:767][149]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.16.30:767][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.16.30:768][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.16.30:783][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.16.30:785][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.24-12.16.30:804][150]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.24-12.16.31:638][242]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.24-12.16.31:649][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-12.16.31:649][242]PIE: New page: PIE session: MainMenu (24 мар. 2021 г., 18:16:31)
+[2021.03.24-12.16.31:672][242]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.16.31:673][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2021.03.24-12.16.31:673][242]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.24-12.16.31:674][242]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2021.03.24-12.16.31:674][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001874s)
+[2021.03.24-12.16.31:690][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.03.24-12.16.31:691][242]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-12.16.31:691][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-12.16.31:691][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-12.16.31:692][242]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-12.16.31:692][242]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-12.16.31:694][242]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-12.16.31:694][242]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-12.16.31:711][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-12.16.31:711][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-12.16.31:726][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-12.16.31:726][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-12.16.31:726][242]LogInit: FAudioDevice initialized.
+[2021.03.24-12.16.31:726][242]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.03.24-12.16.31:737][242]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.16.31:738][242]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.24-15.16.31
+[2021.03.24-12.16.31:738][242]LogWorld: Bringing up level for play took: 0.000242
+[2021.03.24-12.16.31:739][242]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.24-12.16.31:741][242]PIE: Server logged in
+[2021.03.24-12.16.31:741][242]PIE: Play in editor total start time 0,094 seconds.
+[2021.03.24-12.16.32:915][383]LogNet: Browse: /Game/Scenes/Customize
+[2021.03.24-12.16.32:915][383]LogLoad: LoadMap: /Game/Scenes/Customize
+[2021.03.24-12.16.32:915][383]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2021.03.24-12.16.32:915][383]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.16.32:915][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.32:957][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.16.32:959][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.24-12.16.32:963][383]LogAudio: Display: Audio Device (ID: 7) registered with world 'Customize'.
+[2021.03.24-12.16.32:964][383]LogAIModule: Creating AISystem for world Customize
+[2021.03.24-12.16.32:964][383]LogLoad: Game class is 'GameModeBase'
+[2021.03.24-12.16.32:965][383]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Customize.Customize up for play (max tick rate 0) at 2021.03.24-15.16.32
+[2021.03.24-12.16.32:965][383]LogWorld: Bringing up level for play took: 0.000418
+[2021.03.24-12.16.32:966][383]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.24-12.16.32:967][383]LogLoad: Took 0.051284 seconds to LoadMap(/Game/Scenes/Customize)
+[2021.03.24-12.16.38:403][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.16.38:403][ 32]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Customize
+[2021.03.24-12.16.38:403][ 32]LogWorld: UWorld::CleanupWorld for Customize, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.16.38:403][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.38:408][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-12.16.38:412][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.38:427][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-12.16.38:427][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.16.38:428][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-12.16.38:446][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.24-12.16.38:483][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.24-12.16.46:406][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainMenu" FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-12.16.46:423][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.03.24-12.16.46:434][743]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/MainMenu4A1BC4554D3291D9DE94DDBA41F260CD.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Scenes/MainMenu.umap'
+[2021.03.24-12.16.46:470][743]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.24-12.16.46:470][743]LogContentValidation: Display: Validating World /Game/Scenes/MainMenu.MainMenu
+[2021.03.24-12.16.51:110][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.24-12.16.51:173][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Office.Office
+[2021.03.24-12.16.51:173][293]Cmd: MAP LOAD FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/Office.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.24-12.16.51:173][293]LightingResults: New page: Lighting Build
+[2021.03.24-12.16.51:173][293]LoadErrors: New page: Loading map: Office.umap
+[2021.03.24-12.16.51:222][293]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-12.16.51:222][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-12.16.51:222][293]MapCheck: New page: Map Check
+[2021.03.24-12.16.51:222][293]LightingResults: New page: Lighting Build
+[2021.03.24-12.16.51:238][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-12.16.51:240][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.03.24-12.16.51:241][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'Office'.
+[2021.03.24-12.16.51:300][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.24-12.16.51:300][293]LogAIModule: Creating AISystem for world Office
+[2021.03.24-12.16.51:318][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.24-12.16.51:336][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.24-12.16.51:337][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,899ms to complete.
+[2021.03.24-12.16.51:337][293]LogFileHelpers: Loading map 'Office' took 0.165
+[2021.03.24-12.17.00:986][446]LogEditorViewport: Clicking Background
+[2021.03.24-12.17.01:662][527]LogEditorViewport: Clicking Background
+[2021.03.24-12.17.02:239][596]LogEditorViewport: Clicking Background
+[2021.03.24-12.17.15:878][167]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.24-12.17.48:392][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (offic44444e_Plane)
+[2021.03.24-12.17.50:150][200]LogEditorViewport: Clicking Background
+[2021.03.24-12.17.50:596][253]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.03.24-12.18.12:686][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Office" FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/Office.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-12.18.12:703][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.24-12.18.12:732][879]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/OfficeBE4A04EA4B5251E2F1B169994BF95274.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Scenes/Office.umap'
+[2021.03.24-12.18.12:767][879]AssetCheck: New page: Asset Save: Office
+[2021.03.24-12.18.12:767][879]LogContentValidation: Display: Validating World /Game/Scenes/Office.Office
+[2021.03.24-12.18.46:679][554]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.24-12.18.46:689][554]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.24-12.18.52:946][305]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2021.03.24-12.18.52:947][305]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.24-12.19.02:544][812]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.24-12.19.02:553][812]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.24-12.19.05:848][208]LogContentBrowser: Attempting asset rename: NewFolder -> Tank
+[2021.03.24-12.19.05:848][208]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.24-12.19.08:419][489]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.24-12.19.08:428][489]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.24-12.19.12:823][ 12]LogContentBrowser: Attempting asset rename: NewFolder -> AirForce
+[2021.03.24-12.19.12:837][ 12]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.24-12.19.47:258][960]LogContentBrowser: Attempting asset rename: AirForce -> AirPlane
+[2021.03.24-12.20.31:434][608]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.24-12.20.31:444][608]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.24-12.20.38:053][398]LogContentBrowser: Attempting asset rename: NewFolder -> BadRoom
+[2021.03.24-12.20.38:053][398]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.24-12.21.08:587][715]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.24-12.21.08:587][715]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.24-12.21.10:799][923]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.24-12.21.10:817][923]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.24-12.21.14:460][360]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.24-12.21.14:460][360]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.24-12.21.17:269][697]LogContentBrowser: Attempting asset rename: NewFolder -> BathRoom
+[2021.03.24-12.21.17:269][697]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.24-12.21.29:316][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Office" FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/Office.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-12.21.29:335][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.24-12.21.29:378][865]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/Office7AB4B6214D062CE83CAE9D80F7A613E6.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Scenes/Office.umap'
+[2021.03.24-12.21.29:416][865]AssetCheck: New page: Asset Save: Office
+[2021.03.24-12.21.29:416][865]LogContentValidation: Display: Validating World /Game/Scenes/Office.Office
