@@ -1,0 +1,1309 @@
+﻿Log file open, 03/31/21 22:14:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BaubleGuns
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.821932
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/artra/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:248][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.31-19.14.59:259][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.31-19.14.59:260][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.31-19.14.59:260][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.31-19.14.59:260][  0]LogHAL: Display: Platform has ~ 16 GB [17129062400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.31-19.14.59:260][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.31-19.14.59:260][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Scalability.ini]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.31-19.14.59:261][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.31-19.14.59:262][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.31-19.14.59:262][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.31-19.14.59:262][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.31-19.14.59:262][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.31-19.14.59:262][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/baubleguns/BaubleGuns/Saved/Config/Windows/Engine.ini]
+[2021.03.31-19.14.59:262][  0]LogInit: Computer: HOHLOREZ
+[2021.03.31-19.14.59:262][  0]LogInit: User: artra
+[2021.03.31-19.14.59:262][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.31-19.14.59:262][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.31-19.14.59:262][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.31-19.14.59:262][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.31-19.14.59:262][  0]LogMemory: Process Physical Memory: 141.21 MB used, 141.21 MB peak
+[2021.03.31-19.14.59:262][  0]LogMemory: Process Virtual Memory: 117.55 MB used, 117.55 MB peak
+[2021.03.31-19.14.59:262][  0]LogMemory: Physical Memory: 8655.99 MB used,  7679.56 MB free, 16335.55 MB total
+[2021.03.31-19.14.59:262][  0]LogMemory: Virtual Memory: 134210656.00 MB used,  7068.82 MB free, 134217728.00 MB total
+[2021.03.31-19.14.59:270][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.31-19.14.59:329][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.31-19.14.59:332][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.31-19.14.59:332][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.31-19.14.59:334][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.31-19.14.59:335][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.03.31-19.14.59:335][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.03.31-19.14.59:335][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.03.31-19.14.59:335][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.03.31-19.14.59:335][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.03.31-19.14.59:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.03.31-19.14.59:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.03.31-19.14.59:336][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.31-19.14.59:347][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.14.59:370][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.31-19.14.59:370][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.31-19.14.59:530][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.31-19.14.59:530][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.31-19.14.59:530][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.31-19.14.59:530][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.31-19.14.59:622][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.31-19.14.59:622][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.31-19.14.59:625][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.31-19.14.59:625][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.31-19.14.59:625][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.31-19.14.59:637][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.31-19.14.59:638][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.31-19.14.59:638][  0]LogWindows: EnumDisplayDevices:
+[2021.03.31-19.14.59:638][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.31-19.14.59:639][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.31-19.14.59:639][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.31-19.14.59:640][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.31-19.14.59:640][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.31-19.14.59:640][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.31-19.14.59:640][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.03.31-19.14.59:640][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.03.31-19.14.59:640][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.31-19.14.59:710][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.31-19.14.59:711][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.31-19.14.59:711][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.31-19.14.59:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.31-19.14.59:946][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.31-19.15.00:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.31-19.15.00:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.31-19.15.00:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.31-19.15.00:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.31-19.15.00:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.31-19.15.00:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.31-19.15.00:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.31-19.15.00:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.31-19.15.00:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.31-19.15.00:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.31-19.15.00:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.31-19.15.00:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.31-19.15.00:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.31-19.15.00:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.31-19.15.00:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.31-19.15.00:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.31-19.15.00:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.31-19.15.00:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.31-19.15.00:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.31-19.15.00:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.31-19.15.00:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.31-19.15.00:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.31-19.15.00:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.31-19.15.00:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.31-19.15.00:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.31-19.15.00:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.31-19.15.00:911][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.31-19.15.00:922][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.31-19.15.01:003][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.31-19.15.01:003][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../baubleguns/BaubleGuns/Intermediate/Shaders/WorkingDirectory/8860/).
+[2021.03.31-19.15.01:003][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/artra/AppData/Local/Temp/UnrealShaderWorkingDir/9F236015404F3DDFDC40B79CB9A4C13D/'.
+[2021.03.31-19.15.01:003][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.31-19.15.01:003][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.31-19.15.01:767][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.31-19.15.01:822][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/artra/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.31-19.15.01:822][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/artra/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.31-19.15.01:822][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../baubleguns/BaubleGuns/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.31-19.15.01:822][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.31-19.15.01:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../baubleguns/BaubleGuns/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.31-19.15.01:823][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.31-19.15.01:835][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.31-19.15.01:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.31-19.15.01:835][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.31-19.15.01:938][  0]LogDerivedDataCache: Speed tests for C:/Users/artra/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2021.03.31-19.15.01:938][  0]LogDerivedDataCache: Display: Performance to C:/Users/artra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1230.07MBs, RandomWriteSpeed=9.12MBs. Assigned SpeedClass 'Local'
+[2021.03.31-19.15.01:939][  0]LogDerivedDataCache: Using Local data cache path C:/Users/artra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.31-19.15.01:939][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.31-19.15.01:939][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.31-19.15.01:992][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.31-19.15.01:992][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.31-19.15.02:024][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.03.31-19.15.02:421][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.31-19.15.02:421][  0]LogInit: Active device profile: [00000201BD8BB200][00000201BC24D800 49] Windows
+[2021.03.31-19.15.02:421][  0]LogInit: Profiles: [00000201BD8BB200][00000201BC24D800 49] Windows, [00000201BD85EA00][00000201BC251940 49] WindowsNoEditor, [00000201BD8B8F00][00000201BC255A80 49] WindowsServer, [00000201BD85F900][00000201BC25DC00 49] WindowsClient, [00000201BD8BA300][00000201BC2600C0 49] IOS, [00000201BD85CD00][00000201BC264240 49] iPadAir, [00000201BD8BAE00][00000201BC2683C0 49] iPadAir2, [00000201BD7FEB00][00000201BCAA0680 49] IPadPro, [00000201BD7FEC00][00000201BC26C6C0 49] iPadAir3, [00000201BD85D000][00000201BCAA4840 49] iPadAir4, [00000201BD7FE600][00000201BCAA89C0 49] iPadMini2, [00000201BD85CE00][00000201BCAACB40 49] iPadMini3, [00000201BD7FE400][00000201BCAB0CC0 49] iPadMini4, [00000201BD85E400][00000201BCAB4E40 49] iPadMini5, [00000201BD83A400][00000201BCABD100 49] iPhone6, [00000201BD83A500][00000201BCAB9140 49] iPodTouch6, [00000201BD7FD500][00000201BCAC5400 49] iPhone7, [00000201BD7FD400][00000201BCAC1440 49] iPodTouch7, [00000201BD83BC00][00000201BCAC95C0 49] iPhone5S, [00000201BD7FD200][00000201BC259700 49] iPhone6Plus, [00000201BD83B400][00000201BCACD840 49] iPhone6S, [00000201BD7FC900][00000201BCAD1980 49] iPhone6SPlus, [00000201BD83BA00][00000201BCAD5AC0 49] iPhone7Plus, [00000201BD7FFC00][00000201BCADDC40 49] iPhoneSE, [00000201BD83A600][00000201BCAE0100 49] iPhone8, [00000201BD7FD300][00000201BCAE4280 49] iPhone8Plus, [00000201BD839F00][00000201BCAE8400 49] iPhoneX, [00000201BD7FDB00][00000201BCAEC580 49] iPhoneXS, [00000201BD838600][00000201BCAF0700 49] iPhoneXSMax, [00000201BD7FCF00][00000201BCAF4880 49] iPhoneXR, [00000201BD83AA00][00000201BCAF8A00 49] iPhone11, [00000201BD7FD800][00000201BCAFCB80 49] iPhone11Pro, [00000201BD838800][00000201BCB00D00 49] iPhone11ProMax, [00000201BD7FC200][00000201BCB04E80 49] iPhoneSE2, [00000201BD839C00][00000201BCB09000 49] iPhone12Mini, [00000201BD7FDD00][00000201A18EB180 49] iPhone12, [00000201BD839600][00000201A18EF300 49] iPhone12Pro, [00000201BD7FFB00][00000201A18F3480 49] iPhone12ProMax, [00000201BD839100][00000201A18F7600 49] iPadPro105, [00000201BD7FC300][00000201A18FB780 49] iPadPro129, [00000201BD83B800][00000201BCAD98C0 49] iPadPro97, [00000201BD7FFE00][00000201A18FFA00 49] iPadPro2_129, [00000201BD838D00][00000201A1903B40 49] iPad5, [00000201BD8B8C00][00000201A190BCC0 49] iPad6, [00000201BD83A900][00000201A190E180 49] iPad7, [00000201BD8BA600][00000201A1912300 49] iPad8, [00000201BD83B700][00000201A1916480 49] iPadPro11, [00000201BD8B9100][00000201A191A600 49] iPadPro2_11, [00000201BD838500][00000201A191E780 49] iPadPro3_129, [00000201BD8BAC00][00000201A1922900 49] iPadPro4_129, [00000201BD83AC00][00000201A1926A80 49] AppleTV, [00000201BD8B9400][00000201A192AC00 49] AppleTV4K, [00000201BD839300][00000201A192ED80 49] TVOS, [00000201BD8BB400][00000201A1932F00 49] Mac, [00000201BD83B100][00000201A1937080 49] MacClient, [00000201BD8B9800][00000201BCB0D200 49] MacNoEditor, [00000201BD839B00][00000201BCB11380 49] MacServer, [00000201BD8B8800][00000201BCB15500 49] Linux, [00000201BD838700][00000201BCB19680 49] LinuxNoEditor, [00000201BD8B9C00][00000201BCB1D800 49] LinuxAArch64NoEditor, [00000201BD838300][00000201A1907940 49] LinuxClient, [00000201BD8BB000][00000201BCB21A80 49] LinuxAArch64Client, [00000201BD839900][00000201BCB25BC0 49] LinuxServer, [00000201BD8B9000][00000201BCB29D00 49] LinuxAArch64Server, [00000201BD83B600][00000201BCB301C0 49] Android, [00000201BD8BA400][00000201BCB34340 49] Android_Low, [00000201BD838400][00000201BCB384C0 49] Android_Mid, [00000201BD8B9E00][00000201BCB3C640 49] Android_High, [00000201BD839D00][00000201BCB407C0 49] Android_Default, [00000201BD8BB700][00000201BCB44940 49] Android_Adreno4xx, [00000201BD838100][00000201BCB48AC0 49] Android_Adreno5xx_Low, [00000201BD8B8200][00000201BCB4CC40 49] Android_Adreno5xx, [00000201BD83A000][00000201BCB50DC0 49] Android_Adreno6xx, [00000201BD8B8400][00000201BCB54F40 49] Android_Adreno6xx_Vulkan, [00000201BD83B200][00000201BCB590C0 49] Android_Mali_T6xx, [00000201BD8B8600][00000201BCB5D240 49] Android_Mali_T7xx, [00000201BD838C00][00000201BCB613C0 49] Android_Mali_T8xx, [00000201BD8B9300][00000201BCB65540 49] Android_Mali_G71, [00000201BD83AE00][00000201BCB696C0 49] Android_Mali_G72, [00000201BD8B8E00][00000201BCB6D840 49] Android_Mali_G72_Vulkan, [00000201BD838200][00000201BCB2D980 49] Android_Mali_G76, [00000201BD8BA200][00000201BCB71AC0 49] Android_Mali_G76_Vulkan, [00000201BD83BB00][00000201BCB75C00 49] Android_Mali_G77, [00000201BD8B8500][00000201BCB79D40 49] Android_Mali_G77_Vulkan, [00000201BD839A00][00000201BCB80200 49] Android_Vulkan_SM5, [00000201BD8B8D00][00000201BCB84380 49] Android_PowerVR_G6xxx, [00000201BD838A00][00000201BCB88500 49] Android_PowerVR_GT7xxx, [00000201BD7FDF00][00000201BCB8C680 49] Android_PowerVR_GE8xxx, [00000201BD85E500][00000201BCB90800 49] Android_PowerVR_GM9xxx, [00000201BD7FE200][00000201BCB94980 49] Android_PowerVR_GM9xxx_Vulkan, [00000201BD85E900][00000201BCB98B00 49] Android_TegraK1, [00000201BD7FCC00][00000201BCB9CC80 49] Android_Unknown_Vulkan, [00000201BD85DB00][00000201BCBA0E00 49] Lumin, [00000201BD7FFF00][00000201BCBA4F80 49] Lumin_Desktop, [00000201BD85DD00][00000201BCBA9100 49] HoloLens, 
+[2021.03.31-19.15.02:540][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.31-19.15.02:540][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.31-19.15.02:540][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.31-19.15.02:540][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.31-19.15.02:550][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.31-19.15.02:574][  0]LogNetVersion: BaubleGuns 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3128284354)
+[2021.03.31-19.15.03:114][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.31-19.15.03:274][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.159531 seconds
+[2021.03.31-19.15.03:280][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.31-19.15.03:280][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.31-19.15.03:280][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.31-19.15.03:748][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.31-19.15.03:755][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.31-19.15.03:832][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.31-19.15.03:832][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.31-19.15.03:832][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.03.31-19.15.03:863][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.03:863][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.03:867][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.03:871][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.03:884][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.03:891][  0]LogUProjectInfo: Found projects:
+[2021.03.31-19.15.04:178][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.31-19.15.04:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.31-19.15.04:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.31-19.15.04:255][  0]LogCollectionManager: Loaded 0 collections in 0.000759 seconds
+[2021.03.31-19.15.04:279][  0]LogFileCache: Scanning file cache for directory 'E:/baubleguns/BaubleGuns/Saved/Collections/' took 0.00s
+[2021.03.31-19.15.04:279][  0]LogFileCache: Scanning file cache for directory 'E:/baubleguns/BaubleGuns/Content/Developers/artra/Collections/' took 0.00s
+[2021.03.31-19.15.04:279][  0]LogFileCache: Scanning file cache for directory 'E:/baubleguns/BaubleGuns/Content/Collections/' took 0.00s
+[2021.03.31-19.15.04:279][  0]LogOcInput: OculusInput pre-init called
+[2021.03.31-19.15.04:290][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.31-19.15.04:290][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.31-19.15.04:337][  0]LogEngine: Initializing Engine...
+[2021.03.31-19.15.04:338][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.31-19.15.04:338][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.31-19.15.04:339][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.31-19.15.04:449][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.31-19.15.04:456][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.31-19.15.04:471][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.31-19.15.04:475][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.31-19.15.04:475][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.15.04:475][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.15.04:475][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.15.04:476][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.15.04:476][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.15.04:486][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.15.04:486][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.15.04:519][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.15.04:523][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.15.04:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.15.04:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.15.04:526][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.15.04:526][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.15.04:526][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.15.04:528][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.15.04:528][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.15.04:528][  0]LogInit: FAudioDevice initialized.
+[2021.03.31-19.15.04:528][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.31-19.15.04:528][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.31-19.15.04:667][  0]LogDerivedDataCache: Saved boot cache 0.14s 77MB C:/Users/artra/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.31-19.15.04:678][  0]LogInit: Texture streaming: Enabled
+[2021.03.31-19.15.04:692][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.31-19.15.04:696][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.31-19.15.04:696][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.31-19.15.04:697][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.31-19.15.04:748][  0]LogInit: Transaction tracking system initialized
+[2021.03.31-19.15.04:770][  0]BlueprintLog: New page: Editor Load
+[2021.03.31-19.15.04:841][  0]LocalizationService: Localization service is disabled
+[2021.03.31-19.15.04:868][  0]TimingProfiler: Initialize
+[2021.03.31-19.15.04:868][  0]TimingProfiler: OnSessionChanged
+[2021.03.31-19.15.04:868][  0]LoadingProfiler: Initialize
+[2021.03.31-19.15.04:868][  0]LoadingProfiler: OnSessionChanged
+[2021.03.31-19.15.04:868][  0]NetworkingProfiler: Initialize
+[2021.03.31-19.15.04:868][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.31-19.15.04:868][  0]MemoryProfiler: Initialize
+[2021.03.31-19.15.04:868][  0]MemoryProfiler: OnSessionChanged
+[2021.03.31-19.15.05:326][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.31-19.15.05:326][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.31-19.15.05:417][  0]LogFileCache: Scanning file cache for directory 'E:/baubleguns/BaubleGuns/Content/' took 0.00s
+[2021.03.31-19.15.05:674][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.31-19.15.05:677][  0]SourceControl: Source control is disabled
+[2021.03.31-19.15.05:677][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.802
+[2021.03.31-19.15.05:677][  0]Cmd: MAP LOAD FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.31-19.15.05:677][  0]LightingResults: New page: Lighting Build
+[2021.03.31-19.15.05:678][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.15.05:678][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.15.05:678][  0]MapCheck: New page: Map Check
+[2021.03.31-19.15.05:678][  0]LightingResults: New page: Lighting Build
+[2021.03.31-19.15.05:687][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.31-19.15.05:805][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.31-19.15.05:806][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.31-19.15.05:806][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.31-19.15.05:814][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.31-19.15.05:814][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.31-19.15.05:814][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2021.03.31-19.15.05:814][  0]LogFileHelpers: Loading map 'MainMenu' took 0.137
+[2021.03.31-19.15.05:815][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.941
+[2021.03.31-19.15.05:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.15.05:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.15.05:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.15.05:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.15.05:997][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3601 classes and 859 folders.
+[2021.03.31-19.15.06:004][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.31-19.15.06:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.31-19.15.06:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.31-19.15.06:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.31-19.15.06:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.31-19.15.06:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.31-19.15.06:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.31-19.15.06:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.31-19.15.06:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.31-19.15.06:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.31-19.15.06:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.31-19.15.06:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.31-19.15.06:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.31-19.15.06:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.31-19.15.06:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.31-19.15.06:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.31-19.15.06:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.31-19.15.06:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.31-19.15.06:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.31-19.15.06:013][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.31-19.15.06:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.31-19.15.06:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.31-19.15.06:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.31-19.15.06:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.31-19.15.06:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.31-19.15.06:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.31-19.15.06:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.31-19.15.06:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.31-19.15.06:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.31-19.15.06:045][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.31-19.15.06:142][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.31-19.15.06:144][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.31-19.15.06:148][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.31-19.15.06:240][  0]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.31-19.15.06:764][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.31-19.15.06:861][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.31-19.15.06:861][  0]LogLoad: (Engine Initialization) Total time: 9.99 seconds
+[2021.03.31-19.15.06:861][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.31-19.15.06:861][  0]LogInit: First time updating LLM stats...
+[2021.03.31-19.15.06:899][  0]LogAssetRegistry: Asset discovery search completed in 4.8773 seconds
+[2021.03.31-19.15.06:900][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.31-19.15.06:938][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.31-19.15.10:304][232]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.31-19.15.10:317][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.15.10:497][232]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.03.31-19.15.11:316][232]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.31-19.15.11:362][233]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.31-19.16.39:470][280]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.16.39:470][280]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.16.42:861][575]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh20.TankEnd_Mesh20
+[2021.03.31-19.16.43:610][576]LogRenderer: Reallocating scene render targets to support 1212x700 Format 10 NumSamples 1 (Frame:1).
+[2021.03.31-19.17.50:418][248]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.17.50:421][248]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.17.50:434][248]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.17.50:434][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.17.50:496][248]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.17.50:496][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.17.51:745][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.18.06:214][858]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.18.17:617][323]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.18.20:509][562]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh20.TankEnd_Mesh20
+[2021.03.31-19.18.26:543][212]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.18.26:547][212]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.18.26:557][212]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.18.26:557][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.18.26:622][212]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.18.26:622][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.19.41:541][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.19.59:732][534]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.19.59:959][540]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.20.10:514][582]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.20.10:514][582]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.20.24:859][  2]LogEditorTransaction: Undo Add Component
+[2021.03.31-19.20.36:055][157]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.20.36:062][157]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.20.36:078][157]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.20.36:078][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.20.40:945][524]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.31-19.20.40:972][524]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.03.31-19.20.40:986][524]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.03.31-19.20.48:097][367]LogContentBrowser: Attempting asset rename: NewBlueprint -> YelaTankl
+[2021.03.31-19.20.48:117][367]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.03.31-19.20.50:125][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.20.55:389][ 22]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.20.55:397][ 22]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.20.55:424][ 22]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.20.55:424][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.20.56:141][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTankl.YelaTankl
+[2021.03.31-19.21.33:637][649]LogEditorTransaction: Undo Add Component
+[2021.03.31-19.21.36:786][913]LogSlate: Window 'YelaTankl' being destroyed
+[2021.03.31-19.21.36:791][913]LogSlate: Window 'YelaTankl' being destroyed
+[2021.03.31-19.21.36:821][913]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.21.36:822][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.21.43:725][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.03.31-19.21.44:537][527]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.31-19.21.44:601][527]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blprintes/YelaTankl.YelaTankl
+[2021.03.31-19.21.46:583][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.03.31-19.21.46:664][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.31-19.21.47:358][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.22.06:848][393]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.22.07:292][405]LogEditorTransaction: Undo Set Scale
+[2021.03.31-19.22.07:810][460]LogEditorTransaction: Undo Set Scale
+[2021.03.31-19.22.07:998][481]LogEditorTransaction: Undo Set Scale
+[2021.03.31-19.23.22:076][592]LogEditorTransaction: Undo Cut Components
+[2021.03.31-19.23.23:227][681]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.23.54:875][954]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.23.54:943][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.03.31-19.23.54:997][954]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.31-19.23.55:296][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.23.55:328][980]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTank7B50F8064079B7F43C5E7ABFB9D487FA.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.23.55:356][980]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.23.55:356][980]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.23.56:966][132]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.23.56:971][132]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.23.56:985][132]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.23.56:985][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.24.00:637][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.03.31-19.24.00:703][545]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Tank.Tank
+[2021.03.31-19.24.00:703][545]Cmd: MAP LOAD FILE="../../../../../baubleguns/BaubleGuns/Content/Scenes/Tank.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.31-19.24.00:703][545]LightingResults: New page: Lighting Build
+[2021.03.31-19.24.00:703][545]LoadErrors: New page: Loading map: Tank.umap
+[2021.03.31-19.24.00:743][545]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.24.00:743][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.24.00:743][545]MapCheck: New page: Map Check
+[2021.03.31-19.24.00:743][545]LightingResults: New page: Lighting Build
+[2021.03.31-19.24.00:758][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.24.00:764][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.31-19.24.00:764][545]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tank'.
+[2021.03.31-19.24.00:830][545]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.31-19.24.00:830][545]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.24.00:849][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.31-19.24.00:874][545]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.31-19.24.00:875][545]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,724ms to complete.
+[2021.03.31-19.24.00:875][545]LogFileHelpers: Loading map 'Tank' took 0.172
+[2021.03.31-19.24.02:051][675]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.24.02:067][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.24.02:068][675]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:24:02)
+[2021.03.31-19.24.02:069][675]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.31-19.24.02:070][675]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.31-19.24.02:070][675]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.24.02:072][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002158s)
+[2021.03.31-19.24.02:073][675]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.24.02:073][675]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2021.03.31-19.24.02:073][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003610s)
+[2021.03.31-19.24.02:091][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.31-19.24.02:091][675]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.24.02:091][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.24.02:091][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.24.02:092][675]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.24.02:092][675]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.24.02:097][675]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.24.02:097][675]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.24.02:127][675]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.24.02:127][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.24.02:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.24.02:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.24.02:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.24.02:128][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.24.02:128][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.24.02:141][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.24.02:141][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.24.02:141][675]LogInit: FAudioDevice initialized.
+[2021.03.31-19.24.02:141][675]LogAudio: Display: Audio Device (ID: 2) registered with world 'Tank'.
+[2021.03.31-19.24.02:154][675]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.24.02:155][675]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.24.02
+[2021.03.31-19.24.02:156][675]LogWorld: Bringing up level for play took: 0.000550
+[2021.03.31-19.24.02:156][675]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.31-19.24.02:158][675]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.31-19.24.02:160][675]PIE: Server logged in
+[2021.03.31-19.24.02:161][675]PIE: Play in editor total start time 0,096 seconds.
+[2021.03.31-19.24.12:803][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.24.12:804][908]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.24.12:804][908]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.24.12:804][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.24.12:815][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.24.12:820][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.24.12:839][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.24.12:839][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.24.12:840][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.24.12:903][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.03.31-19.24.12:930][909]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.31-19.24.16:572][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.24.52:949][726]LogEditorTransaction: Undo Cut Components
+[2021.03.31-19.25.24:622][750]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.25.24:626][750]LogBlueprint: Error: [AssetLog] E:\baubleguns\BaubleGuns\Content\Blprintes\YelaTank.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.03.31-19.25.24:626][750]LogBlueprint: Error: [AssetLog] E:\baubleguns\BaubleGuns\Content\Blprintes\YelaTank.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.03.31-19.25.24:696][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.03.31-19.25.24:988][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.25.25:017][769]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTankD790EFCB450AB86D73B9E5B0A2F40A06.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.25.25:047][769]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.25.25:047][769]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.25.47:056][650]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.25.47:096][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.03.31-19.25.47:454][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.25.47:482][676]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTank097BEA3747C1E9D59314A8B04FD7E837.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.25.47:510][676]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.25.47:510][676]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.25.48:177][738]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.25.48:182][738]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.25.48:241][738]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.25.48:241][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.25.49:165][836]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.25.49:181][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.25.49:181][836]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:25:49)
+[2021.03.31-19.25.49:202][836]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.25.49:204][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001931s)
+[2021.03.31-19.25.49:205][836]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.25.49:205][836]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.03.31-19.25.49:205][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003610s)
+[2021.03.31-19.25.49:225][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.31-19.25.49:225][836]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.25.49:225][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.25.49:225][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.25.49:226][836]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.25.49:226][836]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.25.49:230][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.25.49:230][836]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.25.49:260][836]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.25.49:260][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.25.49:260][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.25.49:260][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.25.49:260][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.25.49:261][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.25.49:261][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.25.49:274][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.25.49:275][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.25.49:275][836]LogInit: FAudioDevice initialized.
+[2021.03.31-19.25.49:275][836]LogAudio: Display: Audio Device (ID: 3) registered with world 'Tank'.
+[2021.03.31-19.25.49:288][836]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.25.49:289][836]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.25.49
+[2021.03.31-19.25.49:289][836]LogWorld: Bringing up level for play took: 0.000451
+[2021.03.31-19.25.49:289][836]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.31-19.25.49:292][836]PIE: Server logged in
+[2021.03.31-19.25.49:293][836]PIE: Play in editor total start time 0,113 seconds.
+[2021.03.31-19.25.55:464][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.25.55:464][571]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.25.55:464][571]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.25.55:464][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.25.55:476][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.25.55:480][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.25.55:496][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.25.55:497][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.25.55:498][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.25.55:512][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.25.55:515][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.31-19.25.55:541][572]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.31-19.25.56:534][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.26.27:523][579]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.26.27:587][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.03.31-19.26.28:235][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.26.28:264][622]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTankFEA266A44D350A8C1541298132205AA9.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.26.28:294][622]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.26.28:294][622]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.26.29:148][693]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.26.29:153][693]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.26.29:179][693]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.26.29:179][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.29:914][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.26.29:931][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.26.29:931][773]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:26:29)
+[2021.03.31-19.26.29:931][773]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.26.29:933][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2021.03.31-19.26.29:935][773]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.26.29:935][773]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2021.03.31-19.26.29:935][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003952s)
+[2021.03.31-19.26.29:955][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.31-19.26.29:956][773]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.26.29:956][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.26.29:956][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.26.29:956][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.26.29:957][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.26.29:959][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.26.29:959][773]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.26.29:988][773]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.26.29:988][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.26.29:988][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.26.29:988][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.26.29:989][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.26.29:989][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.26.29:989][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.26.30:003][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.26.30:004][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.26.30:004][773]LogInit: FAudioDevice initialized.
+[2021.03.31-19.26.30:004][773]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tank'.
+[2021.03.31-19.26.30:015][773]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.26.30:017][773]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.26.30
+[2021.03.31-19.26.30:017][773]LogWorld: Bringing up level for play took: 0.000546
+[2021.03.31-19.26.30:017][773]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.31-19.26.30:020][773]PIE: Server logged in
+[2021.03.31-19.26.30:021][773]PIE: Play in editor total start time 0,092 seconds.
+[2021.03.31-19.26.35:854][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.26.35:854][469]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.26.35:854][469]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.26.35:854][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.35:864][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.26.35:868][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.35:885][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.26.35:885][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.26.35:886][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.26.35:902][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.26.35:905][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.03.31-19.26.35:931][470]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.31-19.26.36:667][553]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.26.46:761][437]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.26.53:003][965]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.26.53:056][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.03.31-19.26.53:568][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.26.53:596][  0]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTankC29CCCA743549F5A4AB6628D3EB08452.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.26.53:622][  0]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.26.53:622][  0]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.26.54:401][ 69]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.26.54:406][ 69]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.26.54:461][ 69]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.26.54:461][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.54:998][122]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.26.55:014][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.26.55:015][122]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:26:55)
+[2021.03.31-19.26.55:051][122]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.26.55:054][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002150s)
+[2021.03.31-19.26.55:055][122]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.26.55:055][122]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2021.03.31-19.26.55:055][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003795s)
+[2021.03.31-19.26.55:075][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.03.31-19.26.55:076][122]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.31-19.26.55:076][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.26.55:077][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.26.55:077][122]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.26.55:077][122]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.26.55:081][122]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.26.55:081][122]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.26.55:113][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.26.55:113][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.26.55:128][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.26.55:128][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.26.55:128][122]LogInit: FAudioDevice initialized.
+[2021.03.31-19.26.55:128][122]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tank'.
+[2021.03.31-19.26.55:137][122]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.26.55:139][122]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.26.55
+[2021.03.31-19.26.55:139][122]LogWorld: Bringing up level for play took: 0.000520
+[2021.03.31-19.26.55:139][122]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.03.31-19.26.55:175][122]PIE: Server logged in
+[2021.03.31-19.26.55:176][122]PIE: Play in editor total start time 0,162 seconds.
+[2021.03.31-19.26.59:524][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.26.59:524][638]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.26.59:524][638]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.26.59:524][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.59:534][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.26.59:537][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.26.59:555][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.26.59:555][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.26.59:556][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.26.59:572][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.26.59:575][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.03.31-19.26.59:602][639]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.03.31-19.27.00:533][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.27.09:979][537]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.27.10:034][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.03.31-19.27.10:419][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.27.10:447][564]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTank81522157431D856128B6AEA570D7AB69.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.27.10:473][564]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.27.10:473][564]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.27.11:151][624]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.27.11:155][624]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.27.11:201][624]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.27.11:201][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.11:737][678]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.27.11:754][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.27.11:754][678]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:27:11)
+[2021.03.31-19.27.11:782][678]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.27.11:784][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001771s)
+[2021.03.31-19.27.11:785][678]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.27.11:785][678]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2021.03.31-19.27.11:785][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003220s)
+[2021.03.31-19.27.11:805][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.03.31-19.27.11:806][678]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.27.11:806][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.27.11:806][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.27.11:807][678]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.27.11:807][678]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.27.11:811][678]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.27.11:811][678]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.27.11:840][678]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.27.11:840][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.27.11:841][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.27.11:841][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.27.11:841][678]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.27.11:841][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.27.11:841][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.27.11:855][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.27.11:855][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.27.11:855][678]LogInit: FAudioDevice initialized.
+[2021.03.31-19.27.11:855][678]LogAudio: Display: Audio Device (ID: 6) registered with world 'Tank'.
+[2021.03.31-19.27.11:865][678]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.27.11:866][678]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.27.11
+[2021.03.31-19.27.11:866][678]LogWorld: Bringing up level for play took: 0.000512
+[2021.03.31-19.27.11:866][678]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.03.31-19.27.11:869][678]PIE: Server logged in
+[2021.03.31-19.27.11:870][678]PIE: Play in editor total start time 0,117 seconds.
+[2021.03.31-19.27.13:503][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.27.13:503][870]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.27.13:503][870]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.27.13:503][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.13:510][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.27.13:513][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.13:530][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.27.13:530][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.27.13:531][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.27.13:548][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.27.13:551][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.31-19.27.13:598][872]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.03.31-19.27.14:516][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.27.29:818][356]BlueprintLog: New page: Compile YelaTank
+[2021.03.31-19.27.29:868][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.03.31-19.27.30:220][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blprintes/YelaTank" FILE="../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset" SILENT=true
+[2021.03.31-19.27.30:251][382]LogSavePackage: Moving '../../../../../baubleguns/BaubleGuns/Saved/YelaTank573FE03E4A3A4445C5385D87A3A59AFD.tmp' to '../../../../../baubleguns/BaubleGuns/Content/Blprintes/YelaTank.uasset'
+[2021.03.31-19.27.30:283][382]AssetCheck: New page: Asset Save: YelaTank
+[2021.03.31-19.27.30:283][382]LogContentValidation: Display: Validating Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.27.31:253][478]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.27.31:258][478]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.27.31:272][478]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.27.31:272][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.31:941][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-19.27.31:957][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-19.27.31:958][535]PIE: New page: PIE session: Tank (1 апр. 2021 г., 01:27:31)
+[2021.03.31-19.27.31:958][535]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.27.31:960][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001880s)
+[2021.03.31-19.27.31:961][535]LogAIModule: Creating AISystem for world Tank
+[2021.03.31-19.27.31:961][535]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2021.03.31-19.27.31:961][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Tank.Tank to /Game/Scenes/UEDPIE_0_Tank.Tank (0.003405s)
+[2021.03.31-19.27.31:980][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.03.31-19.27.31:982][535]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-19.27.31:982][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-19.27.31:982][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-19.27.31:982][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-19.27.31:986][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-19.27.31:986][535]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-19.27.32:015][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-19.27.32:015][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-19.27.32:029][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-19.27.32:029][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-19.27.32:029][535]LogInit: FAudioDevice initialized.
+[2021.03.31-19.27.32:029][535]LogAudio: Display: Audio Device (ID: 7) registered with world 'Tank'.
+[2021.03.31-19.27.32:036][535]LogLoad: Game class is 'LobbyGamemode_C'
+[2021.03.31-19.27.32:037][535]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tank.Tank up for play (max tick rate 0) at 2021.03.31-22.27.32
+[2021.03.31-19.27.32:037][535]LogWorld: Bringing up level for play took: 0.000437
+[2021.03.31-19.27.32:037][535]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.03.31-19.27.32:040][535]PIE: Server logged in
+[2021.03.31-19.27.32:041][535]PIE: Play in editor total start time 0,085 seconds.
+[2021.03.31-19.27.43:484][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.27.43:484][902]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tank
+[2021.03.31-19.27.43:484][902]LogWorld: UWorld::CleanupWorld for Tank, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.27.43:485][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.43:493][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-19.27.43:497][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.27.43:513][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-19.27.43:514][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.27.43:515][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-19.27.43:530][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-19.27.43:533][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.31-19.27.43:586][904]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.03.31-19.27.44:798][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.27.57:166][165]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.31-19.27.59:764][360]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh20.TankEnd_Mesh20
+[2021.03.31-19.29.13:881][ 78]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.29.13:881][ 78]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.31-19.30.46:242][251]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.30.46:246][251]LogSlate: Window 'TankEnd_Mesh20' being destroyed
+[2021.03.31-19.30.46:312][251]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.30.46:312][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.30.46:380][251]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.30.46:380][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.30.47:575][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blprintes/YelaTank.YelaTank
+[2021.03.31-19.30.57:312][277]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.30.57:316][277]LogSlate: Window 'YelaTank' being destroyed
+[2021.03.31-19.30.57:361][277]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.30.57:361][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.31.01:862][783]LogEditorViewport: Clicking on Actor (LMB): YelaTank_C (YelaTank)
+[2021.03.31-19.31.02:410][848]LogEditorViewport: Clicking on Actor (LMB): YelaTank_C (YelaTank)
+[2021.03.31-19.31.02:693][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.31-19.31.03:105][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.31-19.31.03:469][970]LogEditorViewport: Clicking on Actor (LMB): YelaTank_C (YelaTank)
+[2021.03.31-19.31.05:384][194]Cmd: TRANSACTION UNDO
+[2021.03.31-19.31.05:384][194]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.31-19.31.07:313][377]Cmd: TRANSACTION UNDO
+[2021.03.31-19.31.07:313][377]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.31-19.31.07:817][433]Cmd: TRANSACTION UNDO
+[2021.03.31-19.31.07:818][433]LogEditorTransaction: Undo Create Actors
+[2021.03.31-19.31.39:860][478]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh3.TankEnd_Mesh3
+[2021.03.31-19.31.43:197][806]LogSlate: Window 'TankEnd_Mesh3' being destroyed
+[2021.03.31-19.31.43:200][806]LogSlate: Window 'TankEnd_Mesh3' being destroyed
+[2021.03.31-19.31.43:211][806]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.31.43:211][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.31.44:118][901]LogActorFactory: Actor Factory created TankEnd_Mesh3
+[2021.03.31-19.31.44:798][982]LogActorFactory: Actor Factory created TankEnd_Mesh3
+[2021.03.31-19.32.09:734][952]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TankEnd_Mesh3)
+[2021.03.31-19.32.16:884][738]Cmd: ACTOR BAKEPREPIVOT
+[2021.03.31-19.32.17:767][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.31-19.32.18:609][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TankEnd_Mesh3)
+[2021.03.31-19.32.20:613][136]Cmd: DELETE
+[2021.03.31-19.32.20:646][136]Cmd: ACTOR DELETE
+[2021.03.31-19.32.20:697][136]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.31-19.32.20:727][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.31-19.32.20:742][136]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.03.31-19.32.21:891][267]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh3.TankEnd_Mesh3
+[2021.03.31-19.32.23:727][428]LogSlate: Window 'TankEnd_Mesh3' being destroyed
+[2021.03.31-19.32.23:730][428]LogSlate: Window 'TankEnd_Mesh3' being destroyed
+[2021.03.31-19.32.23:761][428]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-19.32.23:761][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-19.32.25:074][570]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3DModels/Characters/TankEnd_Mesh3.TankEnd_Mesh3
